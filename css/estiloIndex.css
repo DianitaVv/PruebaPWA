@@ -1,0 +1,49 @@
+body{
+    background-color: #f3a99e;
+}
+#idContenedorIndex{
+    border-radius: 15px;
+    border: 1px solid black;
+    margin: 0px auto;
+    padding: 0px auto;
+    width: 90%;
+    height: 600px;
+}
+header.jumbotron {
+    background-color: #f3a99e;
+    color: white; 
+    padding: 0px;
+}
+footer.jumbotron{
+    background-color: #f3a99e; 
+    color: white; 
+    padding: 0px; 
+}
+li {
+    display: inline;
+  }
+#idEncabezadoIndex{
+    margin:-21px auto;
+    padding: 0px auto;
+    width: 100%;
+    height: 290px;
+    background-image: url(../img/Banner\ \(3\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#idMenuIndex{
+    margin: 0px auto;
+    padding: 0px auto;
+    width: 100%;
+    height: 100px;
+}
+
+#idPiePagina{
+    background-image: url(../img/Footer.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0px auto;
+    width: 100%;
+    height: 300px;
+    margin:0px auto;
+}
